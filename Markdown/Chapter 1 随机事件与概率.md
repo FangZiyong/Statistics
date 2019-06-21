@@ -177,7 +177,7 @@ $$
 
 仍然是估计$\pi$，只不过我们用一种更直观的方法取估计。
 
-![](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015072611.jpg)
+<img src='https://upload-images.jianshu.io/upload_images/18367673-d5874d5cd7cb6fef.png' height='50%' width='50%'/>
 
 如图所示，我们随机在正方形内取多个点，然后通过计算落在圆内的频率，用频率估计概率。
 $$
